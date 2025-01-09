@@ -1,0 +1,8 @@
+base58==2.1.1
+bip_utils==2.9.3
+ecdsa==0.19.0
+eth_account==0.13.4
+mnemonic==0.21
+Requests==2.32.3
+solders==0.23.0
+web3==7.6.1
